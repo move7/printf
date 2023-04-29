@@ -165,7 +165,7 @@ Educative
 * contains the test cases for ```_printf```.
 
 ## Authors
-[Sara HAIMER](https://github.com/move7) | [Fatima EL ADDOUNI](https://github.com/move7)
+[Sara HAIMER](https://github.com/Sarataxa) | [Fatima EL ADDOUNI](https://github.com/move7)
 
 
 
